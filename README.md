@@ -1,10 +1,10 @@
-# Project Name
+# Super Mario Game
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 ## Description
 
-[Project Name] is a [brief description of your project's purpose and main features].
+Super Mario Game is a Web Game that is made by Python and Pygame. Here the game is ready and it contain many levels to play. You had to develop medium or hard levels for making it intresting. Be sure that each of every levels are must be in seperate files. You also can create/design other characters, blocks, obstacles, backgrounds etc... 
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@
 
 ## Contributing
 
-[We welcome contributions from the community! To contribute to [Project Name], follow these steps:]
+[We welcome contributions from the community! To contribute to Super Mario Game, follow these steps:]
 
 1. [Fork](https://github.com/your-username/your-repo/fork) the repository.
 2. Create a new branch: `git checkout -b feature-name`
@@ -40,11 +40,8 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## Contact
 
-[Include information on how to contact you or your organization regarding the project. You can provide an email address, link to a website, or other contact details.]
-
-[Optional: If you have a project website, consider adding it here.]
-
-[Optional: If you have a public Slack, Discord, or other community communication channel, mention it here.]
+You can contact with me on regarding this project - 21dit040@charusat.edu.in
+You can see your contribution in this repository as well as in this website's project section - https://abhaynath001.github.io/AbhayNath001/all_mywork.html
 
 ---
-[Optional: You can include a section for acknowledgments or credits for contributors or external libraries used in the project.]
+## Already Contributed
