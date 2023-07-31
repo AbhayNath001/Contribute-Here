@@ -51,3 +51,23 @@ You can see your contribution in this repository as well as in this website's "M
 
 ---
 ## Already Contributed
+
+Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/AbhayNath001">
+                    <img src="https://avatars.githubusercontent.com/u/103759014?s=400&u=6b9bbdabbc277c7967d99836ff9cdbaadad667a3&v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Abhay Nath</b></sub>
+                </a> 
+            </td>
+          <!-- Your code must be start from here -->
+        </tr>
+    </tbody>
+</table>
