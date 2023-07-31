@@ -1,10 +1,10 @@
-# Super Mario Game
+# Demo of a Contribution for Newbies
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 ## Description
 
-Super Mario Game is a Web Game that is made by Python and Pygame. Here the game is ready and it contain many levels to play. You had to develop medium or hard levels for making it intresting. Be sure that each of every levels are must be in seperate files. You also can create/design other characters, blocks, obstacles, backgrounds etc... 
+You just need to upgrade [README.md]() file.
 
 ## Table of Contents
 
