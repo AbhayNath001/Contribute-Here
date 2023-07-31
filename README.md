@@ -32,11 +32,11 @@ You just need to upgrade [README.md](https://github.com/AbhayNath001/Contribute-
 
 [We welcome contributions from the community! To contribute to Super Mario Game, follow these steps:]
 
-1. [Fork](https://github.com/AbhayNath001/Contribute-Here/tree/master/fork) the repository.
+1. [Fork](https://github.com/AbhayNath001/Contribute-Here/tree/master) the repository.
 2. Create a new branch: `git checkout -b feature-name`
 3. Make your changes and commit them: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request to the [develop](https://github.com/your-username/your-repo/tree/develop) branch.
+5. Submit a pull request to the [develop](https://github.com/AbhayNath001/Contributr-Here/tree/master) branch.
 
 [Before submitting a pull request, make sure your code adheres to our coding guidelines and passes all tests. Additionally, ensure you have signed the [Contributor License Agreement](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/CONTRIBUTING.md?plain=1#L37-L41), if already done then ignore.]
 
