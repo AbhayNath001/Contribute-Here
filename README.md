@@ -50,7 +50,7 @@ You can contact with me on regarding this project - 21dit040@charusat.edu.in
 You can see your contribution in this repository as well as in this website's "My Work" section - https://abhaynath001.github.io/AbhayNath001/all_mywork.html
 
 ---
-## Already Contributed
+## Contributions 🍉
 
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
 
