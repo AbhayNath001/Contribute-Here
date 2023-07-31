@@ -1,6 +1,7 @@
 # Demo of a Contribution for Newbies
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Agreement](https://img.shields.io/badge/License-Contribution%20Agreement-red.svg)](https://github.com/AbhayNath001/Contribute-Here/blob/master/CONTRIBUTING.md)
 
 ## Table of Contents
 
