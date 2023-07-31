@@ -17,7 +17,7 @@
 
 ## Description
 
-You just need to upgrade [README.md](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/README.md) file. Be sure, don't try to change other codes or your contribution will be terminated.
+You just need to upgrade [README.md](https://github.com/AbhayNath001/Contribute-Here/blob/master/README.md?plain=1#L70) file. Be sure, don't try to change other codes otherwise your contribution will be terminated.
 
 - Add your own details to the contributor list
 - Make a Pull Request
