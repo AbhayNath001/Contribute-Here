@@ -67,7 +67,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Abhay Nath</b></sub>
                 </a> 
             </td>
-          <!-- Your code must be start from here -->
+          <!-- Your code must be started from here and don't change the above codes -->
             <td align="center">
                 <a href="https://github.com/RudradattJani011">
                     <img src="https://avatars.githubusercontent.com/u/141009144?s=400&u=4f54c0c2667d1b6b8c004cb9b3533ce34dbd4145&v=4" width="100px;" alt="Ali Solanki"/>
