@@ -7,7 +7,7 @@
 
 - [Sign Agreement](#Sign_Agreement)
 - [Description](#Description)
-- [Usage](#usage)
+- [Steps](#steps)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -24,7 +24,7 @@ You just need to upgrade [README.md](https://github.com/AbhayNath001/Contribute-
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
-## Usage
+## Steps
 
 [Provide examples and guidelines on how to use your project. Include code snippets or screenshots if applicable. Explain any available options or configurations.]
 
@@ -47,8 +47,6 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 ## Contact
 
 You can contact with me on regarding this project - 21dit040@charusat.edu.in
-
-You can see your contribution in this repository as well as in this website's "My Work" section - https://abhaynath001.github.io/AbhayNath001/all_mywork.html
 
 ---
 ## Contributions 🍉
