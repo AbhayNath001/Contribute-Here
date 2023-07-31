@@ -17,7 +17,7 @@ Super Mario Game is a Web Game that is made by Python and Pygame. Here the game 
 
 ## Sign Agreement
 
-[ensure you have signed the [Contributor License Agreement](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/CONTRIBUTING.md), if already done then ignore.]
+[Ensure you have signed the [Contributor License Agreement](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/CONTRIBUTING.md?plain=1#L37-L41), if already done then ignore.]
 
 ## Installation
 
@@ -37,7 +37,7 @@ Super Mario Game is a Web Game that is made by Python and Pygame. Here the game 
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request to the [develop](https://github.com/your-username/your-repo/tree/develop) branch.
 
-[Before submitting a pull request, make sure your code adheres to our coding guidelines and passes all tests. Additionally, ensure you have signed the [Contributor License Agreement](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/CONTRIBUTING.md), if already done then ignore.]
+[Before submitting a pull request, make sure your code adheres to our coding guidelines and passes all tests. Additionally, ensure you have signed the [Contributor License Agreement](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/CONTRIBUTING.md?plain=1#L37-L41), if already done then ignore.]
 
 ## License
 
