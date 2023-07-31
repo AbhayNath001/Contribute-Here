@@ -68,6 +68,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
           <!-- Your code must be start from here -->
+            <td align="center">
+                <a href="https://github.com/RudradattJani011">
+                    <img src="https://avatars.githubusercontent.com/u/141009144?s=400&u=4f54c0c2667d1b6b8c004cb9b3533ce34dbd4145&v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Rudradatt Jani</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
