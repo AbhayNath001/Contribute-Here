@@ -2,14 +2,10 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-## Description
-
-You just need to upgrade [README.md](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/README.md) file.
-
 ## Table of Contents
 
 - [Sign Agreement](#Sign_Agreement)
-- [Installation](#installation)
+- [Description](#Description)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -19,9 +15,13 @@ You just need to upgrade [README.md](https://github.com/AbhayNath001/Contributin
 
 [Ensure you have signed the [Contributor License Agreement](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/CONTRIBUTING.md?plain=1#L37-L41), if already done then ignore.]
 
-## Installation
+## Description
 
-[Provide instructions on how to install and set up your project. Include any dependencies that need to be installed and how to install them. If there are multiple installation methods or platforms, provide separate sections or links to more detailed guides.]
+You just need to upgrade [README.md](https://github.com/AbhayNath001/Contributing_AbhayNath/blob/master/README.md) file. Be sure, don't try to change other codes or your contribution will be terminated.
+
+- Add your own details to the contributor list
+- Make a Pull Request
+- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 ## Usage
 
