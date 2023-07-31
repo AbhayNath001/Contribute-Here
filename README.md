@@ -32,17 +32,17 @@ You just need to upgrade [README.md](https://github.com/AbhayNath001/Contribute-
 
     ```
     <td align="center">
-        <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <a href="https://github.com/AbhayNath001">
+            <img src="https://avatars.githubusercontent.com/u/103759014?s=400&u=6b9bbdabbc277c7967d99836ff9cdbaadad667a3&v=4" width="100px;" alt="Abhay Nath"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Abhay Nath</b></sub>
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://github.com/RudradattJani011">
+            <img src="https://avatars.githubusercontent.com/u/141009144?s=400&u=4f54c0c2667d1b6b8c004cb9b3533ce34dbd4145&v=4" width="100px;" alt="Rudradatt Jani"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Rudradatt Jani</b></sub>
         </a>
     </td>
     ```
