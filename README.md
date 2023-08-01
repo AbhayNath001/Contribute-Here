@@ -83,13 +83,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/AbhayNath001">
-                    <img src="https://avatars.githubusercontent.com/u/103759014?s=400&u=6b9bbdabbc277c7967d99836ff9cdbaadad667a3&v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/Raj-Odedara">
+                    <img src="https://avatars.githubusercontent.com/u/141126476?s=400&v=4" width="100px;" alt="Raj Odedara"/>
                     <br />
-                    <sub><b>Abhay Nath</b></sub>
+                    <sub><b>Raj Odedara</b></sub>
                 </a> 
             </td>
           <!-- Your code must be started from here and don't change the above codes. Enter your details without removing others -->
+            <td align="center">
+                <a href="https://github.com/RudradattJani011"> <!-- Github profile link -->
+                    <img src="https://avatars.githubusercontent.com/u/141009144?s=400&u=4f54c0c2667d1b6b8c004cb9b3533ce34dbd4145&v=4" width="100px;" alt="Rudradatt Jani"/> <!-- Github profile picture link -->
+                    <br />
+                    <sub><b>Rudradatt Jani</b></sub> <!-- Full Name -->
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/RudradattJani011"> <!-- Github profile link -->
                     <img src="https://avatars.githubusercontent.com/u/141009144?s=400&u=4f54c0c2667d1b6b8c004cb9b3533ce34dbd4145&v=4" width="100px;" alt="Rudradatt Jani"/> <!-- Github profile picture link -->
