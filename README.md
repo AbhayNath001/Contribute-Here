@@ -8,7 +8,6 @@
 - [Sign Agreement](#Sign_Agreement)
 - [Description](#Description)
 - [Steps](#steps)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -22,13 +21,57 @@ You just need to upgrade [README.md](https://github.com/AbhayNath001/Contribute-
 
 - Add your own details to the contributor list
 - Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+- Steps to add yourself to the contributers list in below
 
 ## Steps
 
-1) Now you will see a repository named `Contribute-Here`, open it and edit the `README.md` file using any text editor, VScode for example.
+1) Search ` AbhayNath001 `
 
-2) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
+   <img src="STEPS PICTURE/1.png">
+
+2) You can find my repositories, choose one.
+
+   <img src="STEPS PICTURE/2.png">
+
+3) Now you redirected on my repository (random). Then click my username.
+
+   <img src="STEPS PICTURE/3.png">
+
+4) You show my profile, just click on repository bar
+
+   <img src="STEPS PICTURE/4.png">
+
+5) Choose the repository name `Contribute-Here`
+
+   <img src="STEPS PICTURE/5.png">
+
+6) Give a star and then click on `Fork`
+
+   <img src="STEPS PICTURE/6.png">
+
+7) Must be unchecked that.
+
+   <img src="STEPS PICTURE/7.png">
+   <img src="STEPS PICTURE/8 - Copy.png">
+
+8) Now press `Create fork`
+
+   <img src="STEPS PICTURE/8.png">
+
+9) Now this entire repository ready to modify on your github account. Next change the `main` branch to `master` branch.
+
+    <img src="STEPS PICTURE/9.png">
+    <img src="STEPS PICTURE/10.png">
+
+10) In master branch you had to change `README.md` file as per instructions.
+
+    <img src="STEPS PICTURE/11.png">
+    next:
+    <img src="STEPS PICTURE/12.png">
+    next:
+    <img src="STEPS PICTURE/13.png">
+
+    Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
     ```
     <td align="center">
@@ -38,18 +81,38 @@ You just need to upgrade [README.md](https://github.com/AbhayNath001/Contribute-
             <sub><b>Abhay Nath</b></sub>
         </a>
     </td>
-     <td align="center">
-        <a href="https://github.com/RudradattJani011">
-            <img src="https://avatars.githubusercontent.com/u/141009144?s=400&u=4f54c0c2667d1b6b8c004cb9b3533ce34dbd4145&v=4" width="100px;" alt="Rudradatt Jani"/>
-            <br />
-            <sub><b>Rudradatt Jani</b></sub>
-        </a>
-    </td>
+    
     ```
 
-3) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
+11) Click on `Commit changes`
 
-4) You have created a pull request, wait for a member to review and merge it : )
+    <img src="STEPS PICTURE/14.png">
+
+12) Now go to your home page of this repository `Contribute-Here`.
+
+    <img src="STEPS PICTURE/15.png">
+
+13) You can see `Comapre & pull request`, click it.
+
+    <img src="STEPS PICTURE/16.png">
+
+14) Click on `Create pull request`
+
+    <img src="STEPS PICTURE/17.png">
+
+15) After write your full name with watermelon emoji and click on `Comment`
+
+    <img src="STEPS PICTURE/18.png">
+
+16) Now it's done. don't click anything here and close this tab.
+
+    <img src="STEPS PICTURE/19.png">
+
+17) Wait for a member to review and merge it : )
+
+18) Then after a while you can see your [contribution](https://github.com/AbhayNath001/Contribute-Here/tree/master)
+
+    <img src="STEPS PICTURE/20.png">
 
 ## Contributing
 
