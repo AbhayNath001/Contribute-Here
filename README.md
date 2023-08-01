@@ -53,9 +53,9 @@ You just need to upgrade [README.md](https://github.com/AbhayNath001/Contribute-
 
 ## Contributing
 
-[We welcome contributions from the community! To contribute to Super Mario Game, follow these steps:]
+[We welcome contributions from the community! To contribute to this README file, follow these steps:]
 
-1. [Fork](https://github.com/AbhayNath001/Contribute-Here/tree/master) the repository.
+1. `Fork` the repository.
 2. Create a new branch: `git checkout -b feature-name`
 3. Make your changes and commit them: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature-name`
