@@ -4,4 +4,5 @@ Firstly you must fill [Contributor License Agreement](https://github.com/AbhayNa
 
 You can Contribute in:
 
-- Demo Contribution on README file ---> [master](https://github.com/AbhayNath001/Contribute-Here/tree/master)
+- Demo Contribution on README file (for newbie) ---> [master](https://github.com/AbhayNath001/Contribute-Here/tree/master)
+- RUDRA the Artificial Intelligence ---> [Rudra-AI-🍉](https://github.com/AbhayNath001/Contribute-Here/tree/Rudra-AI-🍉)
