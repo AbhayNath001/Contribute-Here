@@ -50,4 +50,17 @@ You can contact with me on regarding this project - 21dit040@charusat.edu.in
 You can see your contribution in this repository as well as in this website's "My Work" section - https://abhaynath001.github.io/AbhayNath001/all_mywork.html
 
 ---
-## Already Contributed
+## Contributions 🍉
+
+Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="[https://github.com/AbhayNath001](https://github.com/snehadass136)">
+                    <img src="	https://avatars.githubusercontent.com/u/143639080?v=4" width="100px;" alt="Sneha dass"/>
+                    <br />
+                    <sub><b>Sneha dass</b></sub>
+                </a> 
+            </td>
