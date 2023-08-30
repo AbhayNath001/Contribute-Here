@@ -58,8 +58,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="[https://github.com/AbhayNath001](https://github.com/snehadass136)">
-                    <img src="	https://avatars.githubusercontent.com/u/143639080?v=4" width="100px;" alt="Sneha dass"/>
+                <a href="[https://github.com/snehadass136]">
+                    <img src="https://avatars.githubusercontent.com/u/143639080?v=4" width="100px;" alt="Sneha dass"/>
                     <br />
                     <sub><b>Sneha dass</b></sub>
                 </a> 
