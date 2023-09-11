@@ -167,6 +167,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rudradatt Jani</b></sub> <!-- Full Name -->
                 </a> 
             </td>
+           <td align="center">
+                <a href="https://github.com/RudradattJani011"> <!-- Github profile link -->
+                    <img src="https://avatars.githubusercontent.com/u/141009144?s=400&u=4f54c0c2667d1b6b8c004cb9b3533ce34dbd4145&v=4" width="100px;" alt="Rudradatt Jani"/> <!-- Github profile picture link -->
+                    <br />
+                    <sub><b>Rudradatt Jani</b></sub> <!-- Full Name -->
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
