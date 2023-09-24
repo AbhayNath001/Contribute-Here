@@ -1,6 +1,6 @@
 import requests
 
-Api_Key = "dFVeOEqeeJijlEJWyRUks6emx10P5JZfwKMiv7jU"
+Api_Key = "_________________"
 
 print("Be sure that the starting and ending date range must be under the 7 days")
 start_date = input("Enter the starting date [yyyy-mm-dd]: ")
