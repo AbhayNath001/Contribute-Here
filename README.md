@@ -18,7 +18,7 @@ Contributors are encouraged to `propose and develop innovative features` that co
 
 # New Contribution Ideas:
 
-Download this excel sheet [Downoad](https://github.com/AbhayNath001/Contribute-Here/blob/RUDRA-the-AI-%F0%9F%8D%89/New%20Ideas.xlsx). Here you get the information about which features are already integrated and which are not. Beyond this features you can developed other features also.
+Download this excel sheet [Downoad](https://github.com/AbhayNath001/Contribute-Here/blob/RUDRA-the-AI-%F0%9F%8D%89/New%20Ideas.xlsx). Here you will get the information about which features are already integrated and which are not. Beyond this features you can developed other features also.
 
 # Rewards for Contributors:
 
@@ -46,7 +46,9 @@ Thank you for considering contributing to "RUDRA" – Your Companion in Uncharte
 
 # Contact
 
-You can contact with me on regarding this project - 21dit040@charusat.edu.in
+You can contact me on regarding this project:
+`Mail:` 21dit040@charusat.edu.in
+`LinkedIn:` https://www.linkedin.com/in/abhaynath001/
 
 ---
 # Contributions 🍉
