@@ -47,7 +47,9 @@ Thank you for considering contributing to "RUDRA" – Your Companion in Uncharte
 # Contact
 
 You can contact me on regarding this project:
+
 `Mail:` 21dit040@charusat.edu.in
+
 `LinkedIn:` https://www.linkedin.com/in/abhaynath001/
 
 ---
