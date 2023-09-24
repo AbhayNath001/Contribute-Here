@@ -18,17 +18,7 @@ Contributors are encouraged to `propose and develop innovative features` that co
 
 # New Contribution Ideas:
 
-`Medical Assistant:` Create a module that enables "RUDRA" to provide basic medical advice and information on common illnesses, symptoms, and first aid.
-
-Language Translation: Implement a robust language translation feature to allow users to seamlessly translate text or speech between multiple languages.
-
-Weather Forecast: Develop a weather forecasting module that provides current weather conditions and forecasts for any location.
-
-Virtual Travel Guide: Enable "RUDRA" to act as a virtual travel guide, offering information on popular tourist destinations, landmarks, and travel tips.
-
-Personal Finance Manager: Build a module that helps users track and manage their finances, including expenses, income, and budgeting.
-
-Recipe Suggestions: Create a feature that suggests recipes based on available ingredients and dietary preferences.
+Download this excel sheet [Downoad](https://github.com/AbhayNath001/Contribute-Here/blob/RUDRA-the-AI-%F0%9F%8D%89/New%20Ideas.xlsx). Here you get the information about which features are already integrated and which are not. Beyond this features you can developed other features also.
 
 # Rewards for Contributors:
 
