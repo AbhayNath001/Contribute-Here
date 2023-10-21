@@ -62,12 +62,22 @@ def lvl_1(window):
                Block_2(block_size * 47, HEIGHT - block_size * 2, block_size),
                Block_2(block_size * 47, HEIGHT - block_size * 1, block_size),
                Block_2(block_size * 48, HEIGHT - block_size * 4, block_size),
+               Block_2(block_size * 48, HEIGHT - block_size * 3, block_size),
+               Block_2(block_size * 48, HEIGHT - block_size * 2, block_size),
+               Block_2(block_size * 48, HEIGHT - block_size * 1, block_size),
                Block_2(block_size * 50, HEIGHT - block_size * 3, block_size),
+               Block_2(block_size * 50, HEIGHT - block_size * 2, block_size),
+               Block_2(block_size * 50, HEIGHT - block_size * 1, block_size),
                Block_2(block_size * 49, HEIGHT - block_size * 3, block_size),
+               Block_2(block_size * 49, HEIGHT - block_size * 2, block_size),
+               Block_2(block_size * 49, HEIGHT - block_size * 1, block_size),
                Block_2(block_size * 51, HEIGHT - block_size * 2, block_size),
                Block_2(block_size * 52, HEIGHT - block_size * 2, block_size),
                Block_2(block_size * 51, HEIGHT - block_size * 1, block_size),
-               Block_2(block_size * 52, HEIGHT - block_size * 0, block_size),
+               Block_2(block_size * 52, HEIGHT - block_size * 1, block_size),
+               Block_2(block_size * 53, HEIGHT - block_size * 1, block_size),
+               Block_2(block_size * 54, HEIGHT - block_size * 1, block_size),
+               Block_2(block_size * 55, HEIGHT - block_size * 1, block_size),
                ]
 
     offset_x = 0         #0
